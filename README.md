@@ -6,7 +6,7 @@
 
 - 已配置ESLint、Prettier，可根据自己代码风格修改（记得在vscode中安装ESLint、Prettier插件配合使用）
 
-- husky配置git commit规范及提交代码时eslint检查
+- husky配置git commit规范及提交代码时eslint检查（当项目被git管理后，启用husky，使用指令`yarn prepare`）
 
 - 可根据你的业务需求自由配置
 
